@@ -11,3 +11,4 @@ we again using chmod with +111 to add execute permession to file
 
 now we are using chmod 753 to set rwxr-x-wx
 now we shold do chmod 354 the same in olleh to have -x-r-xr--
+now we shold use chmod 755 */ this symbole means all sub directories
