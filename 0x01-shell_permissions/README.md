@@ -10,3 +10,4 @@ more on permessions this time we use chmod 007 ------rwx
 we again using chmod with +111 to add execute permession to file
 
 now we are using chmod 753 to set rwxr-x-wx
+now we shold do chmod 664 the same in olleh to have rw-rw-r--
