@@ -4,3 +4,4 @@ groups show all the groups the current user part of
 sudo chown change the file owner
 touch create an empty file
 chmod 744 change permessions to rwxr--r--
+we again using chmod with 764 permession rwxrwr--
