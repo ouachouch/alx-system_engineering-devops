@@ -1,2 +1,2 @@
-#!bun/bash/
+#!/bun/bash/
 whomai
