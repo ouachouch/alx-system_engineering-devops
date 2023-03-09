@@ -15,3 +15,4 @@ now we shold use chmod 755 */ this symbole means all sub directories
 now we are changin the group owner of file hell bye using chgrp
 sorry but this shoul be task 12 we are gonig to use mkdir -m permession file -m allow as to specify the mode of the directory
 now we are usinr chown -R to change the owner and group owner of all files and directories note that -R tells chown to operate recursively on all files and directories in the working directory.
+now we will use the same code but instade od -R we will use -hto tell chown to opperate on the symbolic link
