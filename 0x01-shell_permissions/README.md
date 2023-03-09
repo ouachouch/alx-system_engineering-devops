@@ -13,3 +13,4 @@ now we are using chmod 753 to set rwxr-x-wx
 now we shold do chmod 354 the same in olleh to have -x-r-xr--
 now we shold use chmod 755 */ this symbole means all sub directories
 now we are changin the group owner of file hell bye using chgrp
+sorry but this shoul be task 12 we are gonig to use mkdir -m permession file -m allow as to specify the mode of the directory
