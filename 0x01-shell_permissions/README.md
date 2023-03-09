@@ -6,3 +6,4 @@ touch create an empty file
 chmod 744 change permessions to rwxr--r--
 we again using chmod with 754 permession rwxr-xr--
 we again using chmod with 751 permession
+more on permessions this time we use chmod 007 ------rwx
